@@ -14,4 +14,4 @@ This project is subject to the GNU General Public License v3.0.
 
 ## StCroixSkippers
 
-([StCroixSkippers](https://www.dreamincode.net/forums/blog/1017-stcroixskippers) wrote the wrapper of the UsnJournal Win32 API to C#. Without this wrapper the project wouldn't even see the light of day.
+[StCroixSkippers](https://www.dreamincode.net/forums/blog/1017-stcroixskippers) wrote the wrapper of the UsnJournal Win32 API to C#. Without this wrapper the project wouldn't even see the light of day.
