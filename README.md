@@ -2,11 +2,11 @@
 
 Parses NTFS Journal entries in a simple user interface
 
-# License
+## License
 
 This project is subject to the GNU General Public License v3.0.
 
-# Licensed content
+## Licensed content
 
 ## OpenByFiledId
 
